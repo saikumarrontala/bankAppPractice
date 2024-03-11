@@ -1,0 +1,81 @@
+.table-design,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  justify-content: center;
+  margin: 10px;
+}
+.add-btn {
+  background-color: #0d6efd;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  width: 90px;
+  align-items: center;
+  cursor: pointer;
+}
+
+/* td.edit-dlt-btn{
+    padding: 15px;
+    font-weight: 30px;
+    border-radius: 20px;
+    
+} */
+.Edit-btn {
+  background-color: #0d6efd;
+  color: white;
+  width: 70px;
+  padding: 10px 20px;
+  border: 1px solid rgb(232, 232, 232);
+  border-radius: 5px;
+  justify-content: center;
+  cursor: pointer;
+}
+.Delt-btn {
+  background-color: #dc3545;
+  color: white;
+  width: 90px;
+  padding: 10px 20px;
+  border: 1px solid rgb(232, 232, 232);
+  border-radius: 5px;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.lable-input-btn {
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+  border: 1px solid black;
+  width: auto;
+  margin: 10px;
+}
+
+input {
+  padding: 7px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.submit-btn {
+  background-color: #0d6efd;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-size: 17px;
+  width: 120px;
+  cursor: pointer;
+}
+
+.back-btn {
+  background-color: #0d6efd;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-size: 17px;
+  width: 120px;
+  cursor: pointer;
+}
